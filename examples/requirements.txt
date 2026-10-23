@@ -1,2 +1,4 @@
 strands-agents
 strands-agents-tools
+langchain
+langchain-aws

@@ -12,3 +12,8 @@
     - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
     - [Strands agents tools repo](https://github.com/strands-agents/tools)
     - [Strands Vended Tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
+- [CrewAI quickstart](https://docs.crewai.com/v1.13.0/en/quickstart)
+- [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+- Langchain
+    - [Providers integration](https://docs.langchain.com/oss/python/integrations/providers/overview)
+    - [Agent class](https://docs.langchain.com/oss/python/langchain/agents)
