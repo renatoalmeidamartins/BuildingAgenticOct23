@@ -21,3 +21,15 @@
 - Agentcore CLI
     - [Agentcore CLI](https://github.com/aws/agentcore-cli)
     - **DEPRECATED** [Agentcore Starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+- [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
+- Memory
+    - [Prompts for built-in memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+    - [AgentCoreMemoryToolProvider](https://github.com/strands-agents/tools)
+    - [Memory in agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html)
+    - [Strands hooks](https://strandsagents.com/docs/api/python/strands.hooks.events/#_top)
+- [IAM Actions, resources, and condition keys for Amazon Bedrock Agentcore](https://docs.aws.amazon.com/service-authorization/latest/reference/list_bedrock-agentcore.html)
+- [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
+- [Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)
+- [Open Source AWS MCP Servers](https://github.com/awslabs/mcp)
+- [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)

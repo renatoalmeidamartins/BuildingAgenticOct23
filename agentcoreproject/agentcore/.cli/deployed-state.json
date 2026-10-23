@@ -1,0 +1,28 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "MyAgent": {
+            "runtimeId": "agentcoreproject_MyAgent-qhg2Ej880Q",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:526015996414:runtime/agentcoreproject_MyAgent-qhg2Ej880Q",
+            "roleArn": "arn:aws:iam::526015996414:role/AgentCore-agentcoreprojec-ApplicationAgentMyAgentRu-6j9oEbcHDVmF"
+          }
+        },
+        "harnesses": {
+          "MyHarness": {
+            "harnessId": "agentcoreproject_MyHarness-4F7CzKPFXf",
+            "harnessArn": "arn:aws:bedrock-agentcore:us-east-1:526015996414:harness/agentcoreproject_MyHarness-4F7CzKPFXf",
+            "roleArn": "arn:aws:iam::526015996414:role/agentcoreproject_MyHarness",
+            "status": "READY",
+            "harnessVersion": 1,
+            "agentRuntimeArn": "arn:aws:bedrock-agentcore:us-east-1:526015996414:runtime/harness_agentcoreproject_MyHarness-oL4g8O6vAJ",
+            "provisioner": "cloudformation"
+          }
+        },
+        "stackName": "AgentCore-agentcoreproject-default",
+        "deployHash": "2ddab40da568204b"
+      }
+    }
+  }
+}

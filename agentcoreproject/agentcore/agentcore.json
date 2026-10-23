@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schema.agentcore.aws.dev/v1/agentcore.json",
+  "name": "agentcoreproject",
+  "version": 1,
+  "managedBy": "CDK",
+  "tags": {
+    "agentcore:created-by": "agentcore-cli",
+    "agentcore:project-name": "agentcoreproject"
+  },
+  "runtimes": [
+    {
+      "name": "MyAgent",
+      "build": "CodeZip",
+      "entrypoint": "main.py",
+      "codeLocation": "app/MyAgent/",
+      "runtimeVersion": "PYTHON_3_14",
+      "networkMode": "PUBLIC",
+      "protocol": "HTTP"
+    }
+  ],
+  "memories": [],
+  "knowledgeBases": [],
+  "credentials": [],
+  "evaluators": [],
+  "onlineEvalConfigs": [],
+  "agentCoreGateways": [],
+  "policyEngines": [],
+  "configBundles": [],
+  "abTests": [],
+  "harnesses": [
+    {
+      "name": "MyHarness",
+      "path": "app/MyHarness"
+    },
+    {
+      "name": "MyHarness2",
+      "path": "app/MyHarness2"
+    }
+  ],
+  "datasets": [],
+  "capacityProviders": [],
+  "payments": []
+}
