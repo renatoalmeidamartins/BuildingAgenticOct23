@@ -17,3 +17,7 @@
 - Langchain
     - [Providers integration](https://docs.langchain.com/oss/python/integrations/providers/overview)
     - [Agent class](https://docs.langchain.com/oss/python/langchain/agents)
+- [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+- Agentcore CLI
+    - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+    - **DEPRECATED** [Agentcore Starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
