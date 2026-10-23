@@ -3,6 +3,9 @@
 ## Materials and labs
 - [Labs and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%23dvDgro4H4UBaa6RRZwXjWn)
 
+## Class survey
+- Go to [MyClass](https://myclass.skillbuilder.aws), the class will be in the "Past classes" section. Fill the evaluation survey.
+
 ## Class links
 - [What Is Agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
 - [Direct code deployment vs containers in Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
@@ -33,3 +36,5 @@
 - [Open Source AWS MCP Servers](https://github.com/awslabs/mcp)
 - [MCP inspector](https://github.com/modelcontextprotocol/inspector)
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Add observability to your Amazon Bedrock AgentCore resources](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
